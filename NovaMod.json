@@ -1,10 +1,10 @@
 {
     "serverstatus":"true",
-    "noticemode":"false",
-    "dataclearmode":"false",
+    "noticemode":"true",
+    "dataclearmode":"true",
     "servermeassage":"Wait We Are Working On a new Update ! @KingCamper_2",
     "opentime":" Wait For Some Time ⚡",
-    "libs":"https://github.com/user-attachments/files/24145591/liNovaMod55.zip",
+    "libs":"https://github.com/user-attachments/files/24142916/liNovaMod.zip",
     "notice_title":" MOD V-4TEST",
     "notice_body":"👑 By King Camper"
 }
